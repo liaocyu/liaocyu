@@ -4,9 +4,9 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=9cf"/>
-<a href="#"><img src="https://img.shields.io/static/v1?label=Blog&message=juejin&color=blue"/></a>
+<a href="#">
+ <img src="https://img.shields.io/static/v1?label=Blog&message=juejin&color=blue"/></a>
 <a href="https://juejin.cn/user/3967492644678222"><img src="https://img.shields.io/static/v1?label=zhihu&message=zhihu&color=cyan"/></a>
-<img src="https://www.zhihu.com/people/jiu-yan-yue-xin-9" />
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liaocyu&theme=dark&layout=compact)
